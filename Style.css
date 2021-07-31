@@ -1,0 +1,314 @@
+
+    .home{
+        background-image: url(https://images.pexels.com/photos/6146246/pexels-photo-6146246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+     
+        width: 100%;
+        height: 750px;
+      
+       
+    }
+.a{
+    color: white;
+    margin-top: 125px;
+   
+    margin-left: 100px;
+    font-family: 'Dancing Script', cursive;
+   
+font-size: 45px;
+}
+.home h1{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+     top: 5px;
+     
+    margin-left: 60px;
+    
+}
+.home h2{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+   float: left;
+   margin-left: 450px;
+    margin-top: 40px;
+    font-style: italic;
+    font-size: 60px;
+
+}
+.img{
+    width:400px;
+    float: right;
+    margin-right: 250px;
+    margin-top: -40px;
+    
+}
+
+  
+
+
+
+.navbar {
+ float: left;
+
+  width: 100%;
+  height: 80px;
+  color: white;
+  font-size: x-large;
+  
+  
+}
+.navbar a{
+ 
+    margin-right: 40px;
+ font-size: 50px;
+ font-family: 'Dancing Script', cursive;
+}
+
+.menu{
+list-style-type: none;
+}
+.menu :hover{
+    color: yellow;
+}
+
+
+
+
+.menu li{
+ display: inline;
+ margin-left: 40px;;
+ font-size: x-large;
+
+}
+.menu a{
+ color: blanchedalmond;
+}
+.contact{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-style: italic;
+ margin-left: 30px;
+ background-image: url(https://2.bp.blogspot.com/-JFkpWBXuNIM/TdGsd1FPx_I/AAAAAAAAACE/oEDX6XAmYoU/s1600/chloe+portfolio+-+Scene+Background+3+color.JPG);
+ background-repeat: no-repeat;
+ width: auto;
+ height: 980px;
+ 
+
+
+
+}
+.contact h2{
+ text-align: center;
+ margin-bottom: 70px;
+ height: 40px;
+}
+.profile{
+ background-image: url(https://images.hgmsites.net/hug/2016-scion-im_100506275_h.jpg
+ );
+ width: auto;
+}
+
+.profile{
+text-align: center;
+font-style: italic;
+font-family: 'Emblema One', cursive;
+margin-top: 60px;
+
+}
+
+.lead{
+ text-align: center;
+ font-style: italic;
+ font-family: 'Emblema One', cursive;
+ padding:15px ;
+color:black;
+
+ 
+}
+.achievement{
+
+height:750px;
+
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url(https://4wave.net/wordpress/wp-content/uploads/2019/04/AdobeStock_189224831.jpeg);
+
+
+
+}
+
+
+
+.achievement ul{
+    margin-left: -85px;
+  margin-top: 10px;
+      color: white;
+      font-family: 'Kotta One', serif;
+      font-size: 35px;
+      font-style: italic;
+      font-weight: bold;
+}
+.achievement ul:hover{
+    color: yellow;
+}
+.heading{
+    font-style: italic;
+    font-family: 'Kotta One', serif;
+   
+ text-shadow:red;
+ text-align: center;
+ color:white;
+
+}
+
+.portfolio{
+
+background-image: url(https://c4.wallpaperflare.com/wallpaper/7/390/444/macro-yellow-background-wallpaper-preview.jpg);
+font-family: 'Sedgwick Ave Display', cursive;
+height: 700px;
+display: cover;
+background-repeat: no-repeat;
+background-size: cover;
+color:wheat;
+text-align: center;
+font-size: x-large;
+text-shadow: 0 0 3px #FF0000;
+
+}
+
+
+
+.portfolio .container h1{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzh_dPqvax4ZlnLoAc0rhL6kuVHi1D7vxw4g&usqp=CAU);
+background-repeat: no-repeat;
+}
+
+
+.jumbotron{
+
+padding: -10px;
+
+background-image: url(https://www.wallpapertip.com/wmimgs/196-1963170_inspirational-wallpapers-cool-inspiring-quotes-photos-beautiful-background.jpg);
+} 
+
+.resume {
+    background-image: url(https://images.pexels.com/photos/2569997/pexels-photo-2569997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+
+
+}
+.q{
+ text-decoration: underline tomato;
+
+    color: white;
+    font-size: 40px;
+  margin-left: -85px;
+    margin-top: 100px;
+    font-family: 'Dancing Script', cursive;
+}
+.d{
+    color: white;
+    font-size: 35px;
+  margin-left: -200px;
+    margin-top: 170px;
+    font-family: 'Dancing Script', cursive;
+}
+.e{
+    text-decoration: underline  red;
+    color: white;
+    font-size: 40px;
+  margin-left: 300px;
+  margin-top: -395px;
+    font-family: 'Dancing Script', cursive;
+
+}
+.f{
+    color: white;
+    font-size: 35px;
+  margin-left: 260px;
+  margin-top: -300px;
+    font-family: 'Dancing Script', cursive;
+}
+.e:hover, .f:hover,.d :hover,.q:hover,.h:hover,.g:hover,.i:hover,.j:hover{
+    color: yellow;
+}
+.g{
+    text-decoration: underline  red;
+    color: white;
+    font-size: 30px;
+  margin-left: 680px;
+  margin-top: -620px;
+    font-family: 'Dancing Script', cursive;
+
+}
+.h{
+    color: white;
+    font-size: 40px;
+    margin-left: 660px;
+  margin-top: -550px;
+    font-family: 'Dancing Script', cursive;
+}
+.i{
+    text-decoration: underline  red;
+    color: white;
+    font-size: 40px;
+    margin-top: -650px;
+       margin-left: 1000px;
+    font-family: 'Dancing Script', cursive;
+
+}
+.j{
+    color: white;
+    font-size: 40px;
+    margin-left: 980px;
+  margin-top: -580px;
+    font-family: 'Dancing Script', cursive;
+}
+.contact{
+    background-image: url(https://images.pexels.com/photos/234527/pexels-photo-234527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  
+   
+    background-size: cover;
+  
+}
+
+.email{
+    width: 300px;
+    height: 300px;
+}
+.btn {
+    background-color: rgb(56, 56, 233);
+    border: none;
+    color: white;
+    padding: -15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 20px;
+
+  }
+  .contact .container{
+      float: left;
+      margin-top: 70px;
+      margin-left: 50px;
+
+  }
+  .contact .z .conatiner{
+     margin-top: 50px;
+     margin-left: 50px;
+
+  }
+  .btn2{
+    background-color: rgb(233, 56, 56);
+    border: none;
+    color: white;
+    padding: -15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 20px;
+  }
